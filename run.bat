@@ -1,0 +1,6 @@
+@echo off
+echo Installing dependencies...
+pip install keyboard pyperclip >nul 2>&1
+echo Starting FasterPaste...
+python "%~dp0faster_paste.py"
+pause
