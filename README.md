@@ -1,6 +1,6 @@
 # FasterPaste
 
-A lightweight Windows desktop tool that lets you paste a list of records (e.g. Nombor Kad / IC numbers) and auto-type them **one by one** into any application using a single hotkey.
+A lightweight Windows desktop tool that lets you paste a list of records (e.g. Product ID / Tracking No.) and auto-type them **one by one** into any application using a single hotkey.
 
 Built to speed up repetitive copy-paste workflows — especially when transferring data from Excel into web forms or other systems.
 
